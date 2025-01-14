@@ -1,12 +1,12 @@
 # Applied Math Undergraduate
 
 ## About Me
-I am a current second year Applied Mathematics student at UCLA, excited about finding unique ways to supplement the breadth of my coursework with hands on experiences. 
+I am a current second year Applied Math student at UCLA, excited about finding unique ways to supplement the breadth of my coursework with hands on experiences. 
 
 #### Technical Skills: Python, R, C++
 
 ## Education
-- B.S., Applied Mathematics | University of California, Los Angeles (June 2027)  
+- B.S., Applied Mathematics | UCLA (June 2027)  
 
 ## Projects
 ### Tree-Based Regression in Real Estate Valuation 
