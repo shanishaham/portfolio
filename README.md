@@ -17,4 +17,4 @@ I am a current second year Applied Math student at UCLA, excited about finding u
 - Alongside a group of two other students, I evaluated the strengths of three classification methods when applied to the Palmer Penguins dataset. I focused my work on completing a logistic regression model, that was able to achieve a strong accuracy score of 98.4%, which I was able to clearly display in a confusion matrix and in a plot of decision regions.  
 - Link to [report] and [code]
 
-## [Resume](/portfolio/assets/Resume 1_2025.docx.pdf)   
+## [Resume](https://github.com/shanishaham/portfolio/blob/10e3eb3e62b5a27e773c1dd2609e81563f65d2bc/assets/Resume%201_2025.docx.pdf)  
