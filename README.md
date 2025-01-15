@@ -1,7 +1,7 @@
 # Applied Math Undergraduate
 
 ## About Me
-I am a current second year Applied Math student at UCLA, excited about finding unique ways to supplement the breadth of my coursework with hands on learning experiences. As of now, I am interested in machine learning, data science, quantitative analysis, and mathematical modeling. I am curious about learning more in and around these topics, especially as I progress through my undergraduate career! 
+I am a current second year Applied Math student at UCLA, excited about finding unique ways to supplement the breadth of my coursework with hands-on learning experiences. I am interested in machine learning, data science, quantitative analysis, and mathematical modeling. I am curious about learning more in and around these topics, especially as I progress through my undergraduate career! 
 
 #### Technical Skills: Python, R, C++
 
